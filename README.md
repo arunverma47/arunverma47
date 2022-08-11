@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there. I am Arun 👋
 
-<!--
-**arunverma47/arunverma47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm specialized in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend programming languages: NodeJs, NestJs, PHP, Laravel and CodeIgniter Framework
+- Frontend programming languages: ReactJS, VueJs, Next.js, Angular
+- Mobile app programming language: React Native, Ionic Framework, Flutter
+- Database: MySQL, Postgresql, NoSQL, MongoDB, GraphQL
+- Native JavaScript, jQuery, UnderscoreJs
+- HTML, CSS, Twitter Bootstrap, Tailwindcss, Material-UI
+- Shopify E-commerce app development, theme customization.
+- RESTful and Soap API
+- Paypal and Stripe payment integration
+- AWS/EC2/S3, FireBase, Azure, cPanel
+- Webpack, NPM, NVM, Yarn
+- Git, GitHub, Gitlab, Bitbucket
+- OS: Ubuntu, macOS, Window
+
+## How to find me: 
+
+  - [Facebook](https://www.facebook.com/arundevops)
+  - [Twitter](https://twitter.com/arundevops)
+
+## Personal Details:
+
+Name: Arun Verma<br>
+Higher Study: B.Tech in Electronics Stream <br>
+Personal Website: https://www.onlineconverts.com/<br>
+
